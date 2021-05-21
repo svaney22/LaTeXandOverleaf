@@ -26,7 +26,9 @@ The material was developped by Lucia Michielin
 
 # What you are going to find in this repo
 -  .ppt presentations used during the course
--  commented LaTeX code 
+-  commented LaTeX code **thesisBase**
+
+To open the project you shall download the .zip file, create and Overleaf account, new project-import project, drag and drop the zipped file 
 
 This repo has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
 
