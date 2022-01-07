@@ -1,8 +1,8 @@
 # Write and format your thesis with LaTeX and Overleaf
 
-This was a 2-week course aimed to give an introductory overview of how to write and format your thesis, or any other piece of written work, with LaTeX and Overleaf. 
+This was a course aimed to give an introductory overview of how to write and format your thesis, or any other piece of written work, with LaTeX and Overleaf. 
 This training provided an introduction on the potentialities of LaTeX.   
-The training was subdivided in 2 meetings of two hours each. 
+The training was subdivided in 3 sessions of 90 mins
 The material was developped by Lucia Michielin
 
 # Topics discussed 
@@ -17,16 +17,18 @@ The material was developped by Lucia Michielin
 -  Creating lists in LaTeX
 -  Adding Footnotes
 -  Basic Formatting
+-  Adding Code and importing R tables
 -  Abstracts
 -  Paragraphs and newlines
 -  Chapters and Sections
 -  Creating tables
 -  Adding a Table of Contents
 -  Bibliographies with BibLaTeX
+-  Colaboratively working with Overleaf
 
 # What you are going to find in this repo
 -  .ppt presentations used during the course
--  commented LaTeX code **thesisBase**
+-  commented LaTeX code **example**
 
 To open the project you shall download the .zip file, create and Overleaf account, new project-import project, drag and drop the zipped file 
 
